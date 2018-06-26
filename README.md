@@ -1,1 +1,0 @@
-# docker-python2_pipgcc
